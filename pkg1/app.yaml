@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:alvo254/furbar.git
+    repoURL: https://github.com/alvo254/furbar.git
     targetRevision: HEAD
     path: "pkg1/manifests"
   destination:
